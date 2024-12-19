@@ -1,0 +1,9 @@
+*,
+*::before,
+*::after {
+  font-weight: normal;
+}
+
+body {
+  font-size: 15px;
+}
